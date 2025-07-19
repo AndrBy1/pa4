@@ -5,7 +5,7 @@
 * Sparse.c
 * Uses functions from Matrix.h to create and display Matrices with different operations. 
 *
-* Compile on Bash with gcc: gcc -o Sparse Sparse.c Matrix.c List.c or type make
+* Compile on Bash with gcc: "gcc -o Sparse Sparse.c Matrix.c List.c" or just type "make"
 * Run after compiled: ./Sparse infile5.txt outfile5.txt
 ***/ 
 

@@ -7,3 +7,5 @@ List.h " " "
 ListTest.c " " "
 README.md " " "
 Makefile
+
+The defining source of this project is Sparse.c
