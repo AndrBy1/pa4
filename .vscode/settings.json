@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "matrix.h": "c",
+        "list.h": "c",
+        "xutility": "c",
+        "utility": "c",
+        "initializer_list": "c",
+        "list": "c",
+        "type_traits": "c",
+        "xtr1common": "c"
+    }
+}
